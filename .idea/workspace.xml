@@ -1,149 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="03962c04-7140-4000-b7ed-516fa82aa007" name="Default" comment="commit some page" />
-=======
-    <list default="true" id="03962c04-7140-4000-b7ed-516fa82aa007" name="Default" comment="" />
->>>>>>> 6e74f947dd9411a93951c204f40952da751a9881
+    <list default="true" id="118bc8bd-b857-4065-80a2-714971aa7e75" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/i/地点.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/i/扑克牌.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/i/数字.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/i/词语.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/findpwd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/paiming.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quanzi.html" beforeDir="false" afterPath="$PROJECT_DIR$/quanzi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/regist.html" beforeDir="false" afterPath="$PROJECT_DIR$/regist.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/widget.basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/xunlian.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-<<<<<<< HEAD
-=======
     <option name="TRACKING_ENABLED" value="true" />
->>>>>>> 6e74f947dd9411a93951c204f40952da751a9881
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-<<<<<<< HEAD
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aly/admin-404.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
-=======
     <leaf>
-      <file leaf-file-name="widget.basic.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/widget.basic.html">
+      <file leaf-file-name="xunlian.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xunlian.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1932">
-              <caret line="224" column="10" lean-forward="true" selection-start-line="224" selection-start-column="10" selection-end-line="224" selection-end-column="10" />
->>>>>>> 6e74f947dd9411a93951c204f40952da751a9881
+            <state relative-caret-position="253">
+              <caret line="76" column="27" selection-start-line="76" selection-start-column="27" selection-end-line="76" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-<<<<<<< HEAD
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aly/admin-form.html">
+      <file leaf-file-name="paiming.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/paiming.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6718">
-              <caret line="273" column="22" selection-start-line="273" selection-start-column="22" selection-end-line="273" selection-end-column="22" />
+            <state relative-caret-position="3305">
+              <caret line="164" column="13" lean-forward="true" selection-start-line="164" selection-start-column="13" selection-end-line="164" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aly/admin-gallery.html">
+      <file leaf-file-name="wode.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wode.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5193">
-              <caret line="212" column="22" selection-start-line="212" selection-start-column="22" selection-end-line="212" selection-end-column="22" />
-              <folding>
-                <element signature="e#8690#8697#1" expanded="true" />
-                <element signature="e#8924#8931#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aly/admin-help.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3222">
-              <caret line="131" column="22" selection-start-line="131" selection-start-column="22" selection-end-line="131" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aly/admin-index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8422">
-              <caret line="339" column="22" selection-start-line="339" selection-start-column="22" selection-end-line="339" selection-end-column="22" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#15913#15920#1" expanded="true" />
-                <element signature="e#16183#16190#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aly/admin-log.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3372">
-              <caret line="137" column="22" selection-start-line="137" selection-start-column="22" selection-end-line="137" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aly/admin-table.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10622">
-              <caret line="427" column="22" selection-start-line="427" selection-start-column="22" selection-end-line="427" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aly/admin-user.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1575">
-              <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="933">
-              <caret line="48" column="29" lean-forward="true" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/regist.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="508">
-              <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
-=======
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="71" />
->>>>>>> 6e74f947dd9411a93951c204f40952da751a9881
+            <state relative-caret-position="1131">
+              <caret line="223" lean-forward="true" selection-start-line="223" selection-end-line="223" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -153,49 +66,26 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>./assets</find>
-      <find>assets</find>
+      <find>&lt;div class=&quot;am-gallery-desc&quot;&gt;2375-09-26&lt;/div&gt;</find>
     </findStrings>
     <replaceStrings>
-      <replace>../assets</replace>
+      <replace />
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="PREVIOUS_COMMIT_AUTHORS">
-      <list>
-        <option value="rajjim &lt;210991388@qq.com&gt;" />
-      </list>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/widget.basic.html" />
-        <option value="$PROJECT_DIR$/aly/admin-404.html" />
-        <option value="$PROJECT_DIR$/aly/admin-form.html" />
-        <option value="$PROJECT_DIR$/aly/admin-gallery.html" />
-        <option value="$PROJECT_DIR$/aly/admin-help.html" />
-        <option value="$PROJECT_DIR$/aly/admin-index.html" />
-        <option value="$PROJECT_DIR$/aly/admin-log.html" />
-        <option value="$PROJECT_DIR$/aly/admin-table.html" />
-        <option value="$PROJECT_DIR$/aly/admin-user.html" />
+        <option value="$PROJECT_DIR$/findpwd.html" />
+        <option value="$PROJECT_DIR$/login.html" />
         <option value="$PROJECT_DIR$/regist.html" />
-        <option value="$PROJECT_DIR$/login.html" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="33" />
-    <option name="y" value="-11" />
-    <option name="width" value="1386" />
-    <option name="height" value="788" />
-=======
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/login.html" />
-        <option value="$PROJECT_DIR$/widget.basic.html" />
+        <option value="$PROJECT_DIR$/train.html" />
+        <option value="$PROJECT_DIR$/quanzi.html" />
+        <option value="$PROJECT_DIR$/wode.html" />
+        <option value="$PROJECT_DIR$/xunlian.html" />
+        <option value="$PROJECT_DIR$/paiming.html" />
       </list>
     </option>
   </component>
@@ -205,12 +95,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="308" />
-    <option name="y" value="87" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="410" />
     <option name="width" value="2064" />
     <option name="height" value="1407" />
->>>>>>> 6e74f947dd9411a93951c204f40952da751a9881
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -224,6 +112,17 @@
               <item name="xisuidan" type="b2602c69:ProjectViewProjectNode" />
               <item name="xisuidan" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="xisuidan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xisuidan" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xisuidan" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xisuidan" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="i" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -232,14 +131,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-<<<<<<< HEAD
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/aly" />
-=======
-    <property name="WebServerToolWindowFactoryState" value="false" />
->>>>>>> 6e74f947dd9411a93951c204f40952da751a9881
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.path.for.package.prettier" value="project" />
     <property name="node.js.selected.package.prettier" value="" />
@@ -249,11 +143,6 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-<<<<<<< HEAD
-      <recent name="D:\html\xisuidan\aly" />
-=======
->>>>>>> 6e74f947dd9411a93951c204f40952da751a9881
-      <recent name="D:\htmldevelop\xisuidan" />
       <recent name="D:\htmldevelop\xisuidan\assets\i" />
     </key>
   </component>
@@ -269,53 +158,26 @@
       </list>
     </option>
   </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="JavaScript Debug.login.html">
-    <configuration name="admin-404.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/xisuidan/aly/admin-404.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/xisuidan/login.html">
-      <method v="2" />
-    </configuration>
-    <configuration name="quanzi.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/xisuidan/quanzi.html">
-      <method v="2" />
-    </configuration>
-    <configuration name="regist.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/xisuidan/regist.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="widget.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/xisuidan/widget.html">
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="JavaScript Debug.login.html" />
-      <item itemvalue="JavaScript Debug.widget.html" />
-      <item itemvalue="JavaScript Debug.quanzi.html" />
-      <item itemvalue="JavaScript Debug.admin-404.html" />
-      <item itemvalue="JavaScript Debug.regist.html" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.quanzi.html" />
-        <item itemvalue="JavaScript Debug.login.html" />
-        <item itemvalue="JavaScript Debug.regist.html" />
-        <item itemvalue="JavaScript Debug.admin-404.html" />
-        <item itemvalue="JavaScript Debug.widget.html" />
-=======
-  <component name="RunManager" selected="JavaScript Debug.widget.basic.html">
+  <component name="RunManager" selected="JavaScript Debug.xunlian.html">
+    <configuration name="findpwd.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/xisuidan/findpwd.html" />
     <configuration name="login.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/xisuidan/login.html" />
-    <configuration name="widget.basic.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/xisuidan/widget.basic.html" />
-    <configuration name="widget.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/xisuidan/widget.html" />
+    <configuration name="quanzi.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/xisuidan/quanzi.html" />
+    <configuration name="regist.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/xisuidan/regist.html" />
+    <configuration name="xunlian.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/xisuidan/xunlian.html" />
     <list>
+      <item itemvalue="JavaScript Debug.quanzi.html" />
       <item itemvalue="JavaScript Debug.login.html" />
-      <item itemvalue="JavaScript Debug.widget.html" />
-      <item itemvalue="JavaScript Debug.widget.basic.html" />
+      <item itemvalue="JavaScript Debug.findpwd.html" />
+      <item itemvalue="JavaScript Debug.regist.html" />
+      <item itemvalue="JavaScript Debug.xunlian.html" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.widget.basic.html" />
-        <item itemvalue="JavaScript Debug.widget.html" />
+        <item itemvalue="JavaScript Debug.xunlian.html" />
+        <item itemvalue="JavaScript Debug.regist.html" />
         <item itemvalue="JavaScript Debug.login.html" />
->>>>>>> 6e74f947dd9411a93951c204f40952da751a9881
+        <item itemvalue="JavaScript Debug.findpwd.html" />
+        <item itemvalue="JavaScript Debug.quanzi.html" />
       </list>
     </recent_temporary>
   </component>
@@ -324,203 +186,94 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="03962c04-7140-4000-b7ed-516fa82aa007" name="Default" comment="" />
-      <created>1563899983011</created>
+      <changelist id="118bc8bd-b857-4065-80a2-714971aa7e75" name="Default" comment="" />
+      <created>1563977649337</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1563899983011</updated>
-      <workItem from="1563899984169" duration="2637000" />
-<<<<<<< HEAD
-      <workItem from="1563958139813" duration="2362000" />
-    </task>
-    <task id="LOCAL-00001" summary="commit some page">
-      <created>1563967390727</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1563967390727</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
-    <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4999000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14880952" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3289689" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-=======
+      <updated>1563977649337</updated>
+      <workItem from="1563977651200" duration="6810000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2637000" />
+    <option name="totallyTimeSpent" value="6810000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="308" y="87" width="2064" height="1407" extended-state="0" />
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
->>>>>>> 6e74f947dd9411a93951c204f40952da751a9881
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-<<<<<<< HEAD
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="commit some page" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit some page" />
-=======
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
->>>>>>> 6e74f947dd9411a93951c204f40952da751a9881
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/i/favicon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/widget.html" />
-    <entry file="file://$PROJECT_DIR$/quanzi.html">
+    <entry file="file://$PROJECT_DIR$/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4452">
-          <caret line="224" column="10" selection-start-line="224" selection-start-column="10" selection-end-line="224" selection-end-column="10" />
+        <state relative-caret-position="983">
+          <caret line="59" column="4" lean-forward="true" selection-start-line="59" selection-start-column="4" selection-end-line="59" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aly/admin-404.html">
+    <entry file="file://$PROJECT_DIR$/findpwd.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="13" column="58" selection-start-line="13" selection-start-column="58" selection-end-line="13" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aly/admin-form.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6718">
-          <caret line="273" column="22" selection-start-line="273" selection-start-column="22" selection-end-line="273" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aly/admin-gallery.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5193">
-          <caret line="212" column="22" selection-start-line="212" selection-start-column="22" selection-end-line="212" selection-end-column="22" />
-          <folding>
-            <element signature="e#8690#8697#1" expanded="true" />
-            <element signature="e#8924#8931#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aly/admin-help.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3222">
-          <caret line="131" column="22" selection-start-line="131" selection-start-column="22" selection-end-line="131" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aly/admin-index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8422">
-          <caret line="339" column="22" selection-start-line="339" selection-start-column="22" selection-end-line="339" selection-end-column="22" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#15913#15920#1" expanded="true" />
-            <element signature="e#16183#16190#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aly/admin-log.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3372">
-          <caret line="137" column="22" selection-start-line="137" selection-start-column="22" selection-end-line="137" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aly/admin-table.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10622">
-          <caret line="427" column="22" selection-start-line="427" selection-start-column="22" selection-end-line="427" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aly/admin-user.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1575">
-          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="578">
+          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/regist.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="508">
-          <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        <state relative-caret-position="1296">
+          <caret line="48" column="107" selection-start-line="48" selection-start-column="107" selection-end-line="48" selection-end-column="107" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login.html">
+    <entry file="file://$PROJECT_DIR$/wode.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="933">
-          <caret line="48" column="29" lean-forward="true" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
-=======
-    <entry file="file://$PROJECT_DIR$/widget.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="853">
-          <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+        <state relative-caret-position="1131">
+          <caret line="223" lean-forward="true" selection-start-line="223" selection-end-line="223" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/login.html">
+    <entry file="file://$PROJECT_DIR$/quanzi.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="2" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="71" />
+        <state relative-caret-position="210">
+          <caret line="182" selection-start-line="182" selection-end-line="206" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/widget.basic.html">
+    <entry file="file://$PROJECT_DIR$/xunlian.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1932">
-          <caret line="224" column="10" lean-forward="true" selection-start-line="224" selection-start-column="10" selection-end-line="224" selection-end-column="10" />
->>>>>>> 6e74f947dd9411a93951c204f40952da751a9881
+        <state relative-caret-position="253">
+          <caret line="76" column="27" selection-start-line="76" selection-start-column="27" selection-end-line="76" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paiming.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3305">
+          <caret line="164" column="13" lean-forward="true" selection-start-line="164" selection-start-column="13" selection-end-line="164" selection-end-column="13" />
         </state>
       </provider>
     </entry>
