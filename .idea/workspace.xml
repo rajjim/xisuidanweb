@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03962c04-7140-4000-b7ed-516fa82aa007" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aly/admin-404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aly/admin-form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aly/admin-gallery.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aly/admin-help.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aly/admin-index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aly/admin-log.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aly/admin-table.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aly/admin-user.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/regist.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/widget.basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/quanzi.html" afterDir="false" />
-    </list>
+    <list default="true" id="03962c04-7140-4000-b7ed-516fa82aa007" name="Default" comment="commit some page" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -115,7 +101,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
+            <state relative-caret-position="933">
               <caret line="48" column="29" lean-forward="true" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
             </state>
           </provider>
@@ -149,6 +135,11 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="rajjim &lt;210991388@qq.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -224,7 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.login.html">
     <configuration name="admin-404.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/xisuidan/aly/admin-404.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -268,12 +259,20 @@
       <option name="presentableId" value="Default" />
       <updated>1563899983011</updated>
       <workItem from="1563899984169" duration="2637000" />
-      <workItem from="1563958139813" duration="2145000" />
+      <workItem from="1563958139813" duration="2362000" />
     </task>
+    <task id="LOCAL-00001" summary="commit some page">
+      <created>1563967390727</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563967390727</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4782000" />
+    <option name="totallyTimeSpent" value="4999000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -289,9 +288,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -299,6 +298,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit some page" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit some page" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/i/favicon.png">
@@ -390,7 +393,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
+        <state relative-caret-position="933">
           <caret line="48" column="29" lean-forward="true" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
         </state>
       </provider>
